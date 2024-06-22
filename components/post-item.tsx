@@ -1,4 +1,4 @@
-import { Post } from "@/prisma/client";
+import { Post } from "@prisma/client";
 import { format } from "date-fns";
 import Link from "next/link";
 import PostOperations from "./post-operations";
